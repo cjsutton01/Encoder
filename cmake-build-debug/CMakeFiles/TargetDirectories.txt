@@ -1,0 +1,3 @@
+/Users/cole/CLionProjects/cs236project3(real)/cmake-build-debug/CMakeFiles/cs236project3_real_.dir
+/Users/cole/CLionProjects/cs236project3(real)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cole/CLionProjects/cs236project3(real)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
